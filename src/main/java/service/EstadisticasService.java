@@ -17,7 +17,7 @@ public class EstadisticasService {
             if (tarea.esCompletada()) {
                 hechas++;
             }
-        }
+        }//Comentario que no se que poner
         return (hechas * 100.0) / tareas.size();
     }
 
