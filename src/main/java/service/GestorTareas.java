@@ -13,6 +13,7 @@ public class GestorTareas {
         tareas.add(new Tarea(2, "Invitar colaboradores", "HECHA", "MEDIA", "Marta"));
         tareas.add(new Tarea(3, "Crear ramas", "EN_PROCESO", "ALTA", "Javier"));
         tareas.add(new Tarea(4, "Resolver conflicto", "PENDIENTE", "ALTA", "Lucía"));
+
     }
 
     public void agregarTarea(Tarea tarea) {
