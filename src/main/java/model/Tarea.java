@@ -25,6 +25,7 @@ public class Tarea {
 
     public String getEstado() {
         return estado;
+        // Martinez Muñoz Alberto usuario:AlbertoMM
     }
 
     public String getPrioridad() {
