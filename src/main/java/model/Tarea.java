@@ -53,4 +53,8 @@ public class Tarea {
     public String toString() {
         return id + " - " + titulo + " (" + estado + ", " + prioridad + ", " + responsable + ")";
     }
+
+    public void llamarPolicia(){
+
+    }
 }
