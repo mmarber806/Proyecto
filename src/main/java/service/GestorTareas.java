@@ -65,4 +65,8 @@ public class GestorTareas {
         }
         return false;
     }
+
+    public void eliminarTareasPorChristian(){
+
+    }
 }
