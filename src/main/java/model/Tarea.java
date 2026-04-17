@@ -25,7 +25,7 @@ public class Tarea {
 
     public String getEstado() {
         //LVelez
-        return estado;
+        return "Christian Carrascoso Lopez";
     }
 //comentario dani
     public String getPrioridad() {
