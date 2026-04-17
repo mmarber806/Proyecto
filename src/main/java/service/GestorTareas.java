@@ -55,12 +55,7 @@ public class GestorTareas {
 
     // Método ideal para conflicto de eliminar vs modificar.
     public boolean eliminarTareaPorId(int id) {
-        for (Tarea tarea : tareas) {
-            if (tarea.getId() == id) {
-                tareas.remove(tarea);
-                return true;
-            }
-        }
+
         return false;
     }
 }
