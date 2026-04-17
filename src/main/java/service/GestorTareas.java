@@ -1,6 +1,5 @@
 package service;
 
-import model.Tarea;
 import util.TextoUtil;
 
 import java.util.ArrayList;
@@ -65,5 +64,13 @@ public class GestorTareas {
         }
         return false;
     }
-    public class eliminarTareaPorMyriam {}
+
+    public void eliminarTareasPorChristian(){
+        for (Tarea tarea : tareas) {
+            if (tarea.getId() == id) {
+                tareas.remove(tarea);
+                System.out.println("Hola");
+            }
+        }
+    }
 }

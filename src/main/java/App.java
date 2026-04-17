@@ -1,4 +1,3 @@
-import model.Tarea;
 import service.EstadisticasService;
 import service.GestorTareas;
 
