@@ -27,7 +27,7 @@ public class Tarea {
         //LVelez
         return estado;
     }
-
+//comentario dani
     public String getPrioridad() {
         return prioridad;
     }
