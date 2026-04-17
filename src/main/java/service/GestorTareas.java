@@ -32,6 +32,7 @@ public class GestorTareas {
             }
         }
         return resultado;
+        
     }
 
     public int contarPendientes() {
@@ -55,6 +56,6 @@ public class GestorTareas {
 
     // Método ideal para conflicto de eliminar vs modificar.
     public boolean eliminarTareaPorId(int id) {
-       
+
     }
 }
