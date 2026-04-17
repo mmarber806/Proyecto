@@ -53,9 +53,9 @@ public class GestorTareas {
         return builder.toString();
     }
 
-    // Método ideal para conflicto de eliminar vs modificar.
+    // Método ideal para conflicto de eliminar vs modificar
     public boolean eliminarTareaPorId(int id) {
 
-        return false;
+        return false ;
     }
 }
