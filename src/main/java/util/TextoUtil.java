@@ -1,7 +1,5 @@
 package util;
 
-import model.Tarea;
-
 import java.util.List;
 
 public class TextoUtil {
