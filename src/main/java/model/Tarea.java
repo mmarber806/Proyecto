@@ -25,7 +25,6 @@ public class Tarea {
 
     public String getEstado() {
         //LVelez
-        System.out.println("Manuel Morales");
         return estado;
     }
 
@@ -53,5 +52,4 @@ public class Tarea {
     public String toString() {
         return id + " - " + titulo + " (" + estado + ", " + prioridad + ", " + responsable + ")";
     }
-    //Comentario commit
 }
