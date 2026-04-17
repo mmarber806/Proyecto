@@ -1,6 +1,5 @@
 package service;
 
-import model.Tarea;
 import util.TextoUtil;
 
 import java.util.ArrayList;
