@@ -52,4 +52,5 @@ public class Tarea {
     public String toString() {
         return id + " - " + titulo + " (" + estado + ", " + prioridad + ", " + responsable + ")";
     }
+    //Comentario commit
 }
