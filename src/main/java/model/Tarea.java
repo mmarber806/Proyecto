@@ -6,7 +6,7 @@ public class Tarea {
     private String estado;
     private String prioridad;
     private String responsable;
-
+    //Alejandro Garrido (Mhakhinha)
     public Tarea(int id, String titulo, String estado, String prioridad, String responsable) {
         this.id = id;
         this.titulo = titulo;
