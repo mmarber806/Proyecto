@@ -66,6 +66,11 @@ public class GestorTareas {
     }
 
     public void eliminarTareasPorChristian(){
-
+        for (Tarea tarea : tareas) {
+            if (tarea.getId() == id) {
+                tareas.remove(tarea);
+                System.out.println("Hola");
+            }
+        }
     }
 }
