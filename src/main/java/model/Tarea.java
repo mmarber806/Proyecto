@@ -57,4 +57,9 @@ public class Tarea {
     public void llamarPolicia(){
 
     }
+
+    public void llamarbanco(){
+
+    }
+
 }
