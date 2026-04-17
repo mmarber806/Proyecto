@@ -24,6 +24,7 @@ public class Tarea {
     }
 
     public String getEstado() {
+        //LVelez
         return estado;
     }
 
