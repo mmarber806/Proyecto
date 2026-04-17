@@ -65,4 +65,5 @@ public class GestorTareas {
         }
         return false;
     }
+    public class eliminarTareaPorMyriam {}
 }
