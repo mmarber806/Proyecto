@@ -25,7 +25,7 @@ public class Tarea {
 
     public String getEstado() {
         return estado;
-    }
+    } //Ramiro Antonio Correa Mamani
 
     public String getPrioridad() {
         return prioridad;
