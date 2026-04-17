@@ -6,7 +6,7 @@ public class Tarea {
     private String estado;
     private String prioridad;
     private String responsable;
-    //Alejandro Garrido (Mhakhinha)
+
     public Tarea(int id, String titulo, String estado, String prioridad, String responsable) {
         this.id = id;
         this.titulo = titulo;
@@ -25,6 +25,7 @@ public class Tarea {
 
     public String getEstado() {
         //LVelez
+        System.out.println("Manuel Morales");
         return estado;
     }
 
