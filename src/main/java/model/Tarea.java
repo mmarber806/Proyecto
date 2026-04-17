@@ -25,7 +25,7 @@ public class Tarea {
 
     public String getEstado() {
         return estado;
-    }
+    }//FMartinez
 
     public String getPrioridad() {
         return prioridad;
