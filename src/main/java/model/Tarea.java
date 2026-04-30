@@ -13,6 +13,7 @@ public class Tarea {
         this.estado = estado;
         this.prioridad = prioridad;
         this.responsable = responsable;
+        System.out.println("mmartin");
     }
 
     public int getId() {
